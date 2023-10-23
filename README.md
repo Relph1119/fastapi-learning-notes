@@ -3,6 +3,8 @@
 本书主要介绍，包括：
 - 熟悉FastAPI初始化及配置，并了解HTTP的8个方法的构建，详细介绍了@app的装饰器使用，以及FastAPI的路径参数、查询参数、默认参数、可选参数、请求正文、请求头、响应数据等。
 
+原书项目地址：https://github.com/PacktPublishing/Building-Python-Microservices-with-FastAPI
+
 ## 在线阅读地址
 在线阅读地址：https://relph1119.github.io/fastapi-learning-notes
 

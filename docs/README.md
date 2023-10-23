@@ -1,7 +1,10 @@
 # 《利用FastAPI构建Python微服务》学习笔记 {docsify-ignore-all}
 
-本书主要介绍，包括：
-- 熟悉FastAPI初始化及配置，并了解HTTP的8个方法的构建，详细介绍了@app的装饰器使用，以及FastAPI的路径参数、查询参数、默认参数、可选参数、请求正文、请求头、响应数据等。
+本书主要介绍，包括： 
+1. 熟悉FastAPI初始化及配置，并了解HTTP的8个方法的构建，详细介绍了@app的装饰器使用，以及FastAPI的路径参数、查询参数、默认参数、可选参数、请求正文、请求头、响应数据等。
+2. 基于FastAPI的智能旅游系统项目，探索核心功能，包含API服务的实现、注册router、状态响应码、异常处理、转换JSON兼容的对象、后台任务埋点、日志管理等。
+
+原书项目地址：https://github.com/PacktPublishing/Building-Python-Microservices-with-FastAPI
 
 ## 在线阅读地址
 在线阅读地址：https://relph1119.github.io/fastapi-learning-notes

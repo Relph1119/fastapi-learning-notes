@@ -14,6 +14,7 @@ from string import ascii_lowercase
 from typing import Optional, List, Dict
 from uuid import UUID, uuid1
 
+import uvicorn
 from bcrypt import checkpw, hashpw, gensalt
 from fastapi import FastAPI, Form, Cookie, Response, Header
 from pydantic import BaseModel
@@ -388,3 +389,7 @@ def create_cookies(resp: Response, id: UUID, username: str = ''):
     resp.set_cookie(key="userkey", value=username)
     resp.set_cookie(key="identity", value=str(id))
     return {"message": "remember-me tokens created"}
+
+
+if __name__ == '__main__':
+    uvicorn.run(app='main:app', reload=True)

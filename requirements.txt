@@ -3,3 +3,6 @@ uvicorn
 python-multipart
 dependency-injector
 lagom
+requests
+loguru
+python-dotenv

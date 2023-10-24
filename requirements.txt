@@ -6,3 +6,10 @@ lagom
 requests
 loguru
 python-dotenv
+SQLAlchemy
+psycopg2
+aiopg
+asyncpg
+gino
+pony
+peewee

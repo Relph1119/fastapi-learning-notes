@@ -13,3 +13,9 @@ asyncpg
 gino
 pony
 peewee
+pymongo
+motor
+mongoengine
+beanie
+odmantic
+MongoFrames

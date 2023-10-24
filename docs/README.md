@@ -6,6 +6,7 @@
 3. 基于FastAPI的在线食谱系统，了解依赖注入原理，包含依赖函数和可调用类的注入、缓存依赖项以及注入依赖项的方法，还可以采用第三方容器Dependency Inject和Lagom。
 4. 基于FastAPI的大学企业资源计划系统，采用子域分解方式，构建教师、图书馆和学生管理模块，结合领域模型，实现微服务应用程序，其中包括子模块的挂载、异常处理、集中日志记录、配置管理等。
 5. 基于FastAPI的健身俱乐部管理系统，介绍使用SQLAlchemy创建CRUD事务，使用多种ORM框架（Pony ORM、Peewee）构建存储库层，还介绍了CQRS设计模式，分离查询事务与命令事务（插入、更新、删除）
+6. 基于FastAPI的在线图书转售系统，介绍使用PyMongo、Motor创建CRUD事务，比较MongoEngine、Beanie、ODMantic和MongoFrames的功能，其中Beanie是Motor的升级版，ODMantic是Motor和Pydantic的组合版，创建异步CRUD时，可以使用ODMantic框架，创建同步CRUD时，可以使用MongoFrames框架。
 
 原书项目地址：https://github.com/PacktPublishing/Building-Python-Microservices-with-FastAPI
 

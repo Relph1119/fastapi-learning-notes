@@ -19,3 +19,5 @@ mongoengine
 beanie
 odmantic
 MongoFrames
+passlib
+python-jose

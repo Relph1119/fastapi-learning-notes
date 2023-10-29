@@ -13,6 +13,8 @@
 10. 结合定期普查和计算系统的基本框架，介绍Piccolo ORM框架，使用`sympy`、`numpy`、`pandas`和`scipy`进行数据处理与统计分析，并通过Celery模拟BPMN工作流，还介绍了Neo4j数据库的集成。
 11. 结合在线体育管理系统，介绍基于`starlette-exporter`的API服务监控、基于`opentelemetry-exporter-jaeger`的服务跟踪、基于`py_eureka_client`的服务注册和发现，还对Docker部署、Flask和Django子应用的集成进行了讲解。
 
+建议学习时长：6天
+
 原书项目地址：https://github.com/PacktPublishing/Building-Python-Microservices-with-FastAPI
 
 ## 在线阅读地址

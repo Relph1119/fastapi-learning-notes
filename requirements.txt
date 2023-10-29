@@ -28,3 +28,11 @@ redis
 rx
 aiofiles
 pytest
+piccolo
+piccolo-admin
+sympy
+numpy
+pandas
+xlsxwriter
+matplotlib
+scipy

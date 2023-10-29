@@ -26,3 +26,5 @@ celery
 flower
 redis
 rx
+aiofiles
+pytest

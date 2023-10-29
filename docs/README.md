@@ -9,6 +9,7 @@
 6. 结合在线图书转售系统，介绍使用PyMongo、Motor创建CRUD事务，比较MongoEngine、Beanie、ODMantic和MongoFrames的功能，其中Beanie是Motor的升级版，ODMantic是Motor和Pydantic的组合版，创建异步CRUD时，可以使用ODMantic框架，创建同步CRUD时，可以使用MongoFrames框架。
 7. 结合安全的在线拍卖系统，介绍身份验证和授权管理，身份验证包含Basic和Digest两个基础的身份验证、基于OAuth2的密码身份验证、JWT的token密钥验证，授权管理包括基于作用域的授权、OAuth2AuthorizationCodeBearer的授权码流，并和Keycloak、Auth0、Okta等系统集成，完成身份和用户管理。
 8. 结合在线报纸管理系统，介绍协程和异步后台任务的创建与使用，并了解Celery任务，使用RabbitMQ或Kafka发布和订阅消息。还通过`rx`包介绍反应式编程范式。
+9. 结合在线餐厅评论系统，介绍一些FastAPI高级功能，包括基于`request.session`的会话管理、使用`CORSMiddleware`的CORS解决方案、自定义APIRoute和Request解决数据正文的加解密，还介绍了响应的选择、OpenAPI 3.x规范，以及使用pytest进行API端点测试。
 
 原书项目地址：https://github.com/PacktPublishing/Building-Python-Microservices-with-FastAPI
 

@@ -21,3 +21,8 @@ odmantic
 MongoFrames
 passlib
 python-jose
+cryptography
+celery
+flower
+redis
+rx

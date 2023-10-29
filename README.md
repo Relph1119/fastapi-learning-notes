@@ -8,6 +8,7 @@
 5. 结合健身俱乐部管理系统，介绍使用SQLAlchemy创建CRUD事务，使用多种ORM框架（Pony ORM、Peewee）构建存储库层，还介绍了CQRS设计模式，分离查询事务与命令事务（插入、更新、删除）
 6. 结合在线图书转售系统，介绍使用PyMongo、Motor创建CRUD事务，比较MongoEngine、Beanie、ODMantic和MongoFrames的功能，其中Beanie是Motor的升级版，ODMantic是Motor和Pydantic的组合版，创建异步CRUD时，可以使用ODMantic框架，创建同步CRUD时，可以使用MongoFrames框架。
 7. 结合安全的在线拍卖系统，介绍身份验证和授权管理，身份验证包含Basic和Digest两个基础的身份验证、基于OAuth2的密码身份验证、JWT的token密钥验证，授权管理包括基于作用域的授权、OAuth2AuthorizationCodeBearer的授权码流，并和Keycloak、Auth0、Okta等系统集成，完成身份和用户管理。
+8. 结合在线报纸管理系统，介绍协程和异步后台任务的创建与使用，并了解Celery任务，使用RabbitMQ或Kafka发布和订阅消息。还通过`rx`包介绍反应式编程范式。
 
 原书项目地址：https://github.com/PacktPublishing/Building-Python-Microservices-with-FastAPI
 

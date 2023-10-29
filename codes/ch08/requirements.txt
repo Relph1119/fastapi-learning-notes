@@ -1,0 +1,9 @@
+asyncpg==0.26.0
+distlib==0.3.6
+filelock==3.8.0
+gino==1.0.1
+greenlet==1.1.3
+numpy==1.23.2
+platformdirs==2.5.2
+SQLAlchemy==1.3.24
+virtualenv==20.16.3

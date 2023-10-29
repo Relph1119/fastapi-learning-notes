@@ -36,3 +36,6 @@ pandas
 xlsxwriter
 matplotlib
 scipy
+starlette-exporter
+opentelemetry-exporter-jaeger
+py_eureka_client

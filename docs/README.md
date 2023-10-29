@@ -11,6 +11,7 @@
 8. 结合在线报纸管理系统，介绍协程和异步后台任务的创建与使用，并了解Celery任务，使用RabbitMQ或Kafka发布和订阅消息。还通过`rx`包介绍反应式编程范式。
 9. 结合在线餐厅评论系统，介绍一些FastAPI高级功能，包括基于`request.session`的会话管理、使用`CORSMiddleware`的CORS解决方案、自定义APIRoute和Request解决数据正文的加解密，还介绍了响应的选择、OpenAPI 3.x规范，以及使用pytest进行API端点测试。
 10. 结合定期普查和计算系统的基本框架，介绍Piccolo ORM框架，使用`sympy`、`numpy`、`pandas`和`scipy`进行数据处理与统计分析，并通过Celery模拟BPMN工作流，还介绍了Neo4j数据库的集成。
+11. 结合在线体育管理系统，介绍基于`starlette-exporter`的API服务监控、基于`opentelemetry-exporter-jaeger`的服务跟踪、基于`py_eureka_client`的服务注册和发现，还对Docker部署、Flask和Django子应用的集成进行了讲解。
 
 原书项目地址：https://github.com/PacktPublishing/Building-Python-Microservices-with-FastAPI
 
